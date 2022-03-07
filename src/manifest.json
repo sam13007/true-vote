@@ -1,0 +1,19 @@
+{
+    "name": "Decentralized app",
+    "short_name": "true-vote",
+    "icons": [
+      {
+        "src": "/img/favicon.png",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#3f51b5",
+    "description": "A Decentralized app for voting",
+    "dir": "ltr",
+    "lang": "en-US"
+  }
